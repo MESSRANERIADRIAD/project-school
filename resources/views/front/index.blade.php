@@ -48,6 +48,7 @@
                 <div class="col-lg-9">
                     <nav class="navbar navbar-expand-lg navbar-light">
                         <a class="navbar-brand" href="index.html"> <img src="{{ asset('uploads/courses/logo.png') }}" alt="logo"> </a>
+
                         <button class="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
@@ -81,7 +82,7 @@
                     </nav>
                 <div class="text-box">
                     <h1>Ecole Math et Phisique</h1>
-                    <p> lyce provéé study first second third hight school</p>
+                    <p> lyce privéé study first second third hight school</p>
                     <a href="" class="hero-btn">Visit to know more</a> 
                  </div>        
                 </div>
@@ -180,7 +181,7 @@
     
   <div class="row">
         <div class="col-12  pb-5">
-          <h2 class="contact-title  pb-5">Register at school math et phisique</h2>
+          <h2 class="contact-title npm pb-5">Register at school math et phisique</h2>
         </div>
         <div class="col-lg-8 ">
 
